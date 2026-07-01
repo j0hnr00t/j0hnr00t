@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=!+J%CF%83%D0%B8%D0%98+%E3%87%97%C2%B9%C2%B3%C2%B3%E2%81%B7%E2%80%A0+%CF%9D;j0hnr00t;silent.+but.+dangerous." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=650&lines=!+J%CF%83%D0%B8%D0%98+%E3%87%97%C2%B9%C2%B3%C2%B3;j0hnr00t;the+throne+is+silent;the+throne+is+dangerous" alt="Typing SVG" />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=j0hnr00t&color=8B0000&style=flat-square&label=views)
 ![Status](https://img.shields.io/badge/status-online-black?style=flat-square&labelColor=000000&color=8B0000)
-![Discord](https://img.shields.io/discord/000000000000000000?style=flat-square&label=discord&labelColor=000000&color=8B0000&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/discord-primesec-black?style=flat-square&logo=discord&logoColor=8B0000&labelColor=000000)](https://discord.gg/primesec)
 
 </div>
 
@@ -16,20 +16,24 @@
 > whoami
 j0hnr00t
 
+> rank
+king. never asked, never needs to.
+
 > location
 undisclosed
 
 > status
-in the shadows, watching the packets flow
+silent. watching. already three steps ahead.
 ```
 
 ---
 
-### 🩸 about
+### 👑 about
 
-I don't announce myself. I show up in the logs after it's already too late to matter.
-Builder of **PrimeSec** — a recon toolkit for people who'd rather work quietly than talk loudly.
-No noise. No flex. Just clean recon and cleaner exits.
+No crown on the head. No throne to sit on. Just results that speak once and never repeat themselves.
+I don't chase reputation — reputation finds the quiet ones eventually.
+Builder of **PrimeSec** — a recon toolkit for people who move first and explain never.
+No noise. No flex. No second warning.
 
 ---
 
@@ -87,7 +91,7 @@ No noise. No flex. Just clean recon and cleaner exits.
 
 <div align="center">
 
-*"the quiet ones are the ones you should worry about."*
+*"kings don't announce the crown. they just make sure you feel it."*
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
