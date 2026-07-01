@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=650&lines=!+J%CF%83%D0%B8%D0%98+%E3%87%97%C2%B9%C2%B3%C2%B3;j0hnr00t;the+throne+is+silent;the+throne+is+dangerous" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=650&lines=j0hnr00t;the+throne+is+silent;the+throne+is+dangerous" alt="Typing SVG" />
 
 <br>
 
